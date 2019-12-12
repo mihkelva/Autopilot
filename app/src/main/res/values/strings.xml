@@ -1,0 +1,6 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+<string name="app_name">AutopilotTabbed</string>
+<string name="tab_text_1">Mäng</string>
+<string name="tab_text_2" icon="@drawable/ic_settings_black_24dp">Arendus</string>
+<string name="tab_text_3">Edetabel</string>
+</resources>
